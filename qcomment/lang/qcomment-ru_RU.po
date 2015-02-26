@@ -1,0 +1,586 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: qcomment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-08 21:18+0200\n"
+"PO-Revision-Date: 2014-04-08 21:19+0200\n"
+"Last-Translator: Vladimir Statsenko <vovchiksta@gmail.com>\n"
+"Language-Team: Vladimir Statsenko <vovchiksta@gmail.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SearchPath-0: ./..\n"
+
+#: ../includes/controllers/qc_options.php:114
+#: ../includes/views/options/app_key.php:4
+msgid "Application key"
+msgstr "Ключ приложения"
+
+#: ../includes/controllers/qc_options.php:117
+#: ../includes/views/options/subject.php:4
+msgid "Thematic ID"
+msgstr "ID тематики"
+
+#: ../includes/controllers/qc_options.php:120
+#: ../includes/views/options/tariff_id.php:4
+msgid "Tariff ID"
+msgstr "ID тарифа"
+
+#: ../includes/controllers/qc_options.php:123
+#: ../includes/views/options/task.php:4
+msgid "Task for authors"
+msgstr "Задание авторам"
+
+#: ../includes/controllers/qc_options.php:126
+#: ../includes/views/options/pay.php:4
+msgid "Comments to buy"
+msgstr "Количество комментариев для покупки"
+
+#: ../includes/controllers/qc_options.php:129
+msgid "Next fields are required for automatic comments buying"
+msgstr "Для автоматической покупки комментариев нужно заполнить следующие поля"
+
+#: ../includes/views/edit_post/index.php:9
+msgid "Set QComment API key, please"
+msgstr "Пожалуйста, введите ключ API"
+
+#: ../includes/views/edit_post/index.php:10
+msgid "Options page"
+msgstr "Страница настроек"
+
+#: ../includes/views/edit_post/index.php:49
+msgid "Buy comments"
+msgstr "Купить комментарии"
+
+#: ../includes/views/edit_post/index.php:53
+msgid "Main"
+msgstr "Основные"
+
+#: ../includes/views/edit_post/index.php:54
+msgid "Additional"
+msgstr "Дополнительные"
+
+#: ../includes/views/edit_post/index.php:55
+msgid "Restrictions"
+msgstr "Ограничения"
+
+#: ../includes/views/edit_post/index.php:128
+#: ../includes/views/options/team_id.php:12
+msgid "View in"
+msgstr "Смотрите в"
+
+#: ../includes/views/edit_post/index.php:130
+#: ../includes/views/options/team_id.php:13
+msgid "your teams list"
+msgstr "списке Ваших команд"
+
+#: ../includes/views/options/buy_for_all.php:4
+msgid "Buy comments for all new posts"
+msgstr "Покупать комментарии для всех новых постов"
+
+#: ../includes/views/options/comment_configs.php:4
+msgid "Comments types"
+msgstr "Типы комментариев"
+
+#: ../includes/views/options/day_limit.php:4
+msgid "Random daily comments number."
+msgstr "Случайное число комментариев в сутки."
+
+#: ../includes/views/options/end_time.php:4
+msgid "Project end time"
+msgstr "Время, в которое проект приостанавливается"
+
+#: ../includes/views/options/export_comments.php:4
+msgid "Export comments with API"
+msgstr "Экспортировать комментарии с помощью API"
+
+#: ../includes/views/options/group.php:4
+msgid "Group ID"
+msgstr "ID группы"
+
+#: ../includes/views/options/index.php:2
+msgid "QComment settings"
+msgstr "Настройки QComment"
+
+#: ../includes/views/options/languages.php:4
+msgid "Language"
+msgstr "Язык"
+
+#: ../includes/views/options/limit_url.php:4
+msgid "Comments per url limit"
+msgstr "Лимит комментариев на страницу"
+
+#: ../includes/views/options/limit_url_day.php:4
+msgid "Comments per url day limit"
+msgstr "Лимит комментариев на страницу в сутки"
+
+#: ../includes/views/options/limit_author.php:4
+msgid "Comments per author limit"
+msgstr "Лимит комментариев от автора"
+
+#: ../includes/views/options/limit_author_day.php:4
+msgid "Comments per author daily limit"
+msgstr "Лимит комментариев в сутки от одного автора"
+
+#: ../includes/views/options/limit_field.php:4
+msgid "Limit comments per day"
+msgstr "Лимит комментариев в сутки"
+
+#: ../includes/views/options/limit_hour.php:4
+msgid "Comments per hour limit"
+msgstr "Лимит комментариев в час"
+
+#: ../includes/views/options/load_comments.php:4
+msgid "Load comments"
+msgstr "Загружать комментарии"
+
+#: ../includes/views/options/load_comments.php:13
+msgid "all"
+msgstr "все"
+
+#: ../includes/views/options/load_comments.php:15
+msgid "approved only"
+msgstr "только подтвержденные"
+
+#: ../includes/views/options/max_turn.php:4
+msgid "Maximum simultaneous authors"
+msgstr "Максимум одновременно приступивших авторов"
+
+#: ../includes/views/options/min_rating.php:4
+msgid "Minimal author rating"
+msgstr "Минимальный ранг автора"
+
+#: ../includes/views/options/start_time.php:4
+msgid "Project start time"
+msgstr "Время, начало активности проекта"
+
+#: ../includes/views/options/stop_words.php:4
+msgid "Stop words"
+msgstr "Стоп-слова"
+
+#: ../includes/views/options/stop_words.php:13
+msgid "Separate with a comma"
+msgstr "Разделяйте запятыми"
+
+#: ../includes/views/options/team_id.php:4
+msgid "Authors team ID"
+msgstr "ID команды авторов"
+
+#: ../includes/views/user/index.php:4
+msgid "Login"
+msgstr "Логин"
+
+#: ../includes/views/user/index.php:9
+msgid "Please enter your QComment login"
+msgstr "Пожалуйста, укажите Ваш логин на бирже QComment"
+
+#: ../qcomment.php:51
+msgid "Once every 20 minutes"
+msgstr "Каждые 20 минут"
+
+#~ msgid "Random daily comments number. Minimum value"
+#~ msgstr "Случайное число комментариев в сутки. Минимальное значение"
+
+#~ msgid "Enter the term, please"
+#~ msgstr "Введите термин, пожалуйста"
+
+#~ msgid "Enter the link, please"
+#~ msgstr "Введите ссылку, пожалуйста"
+
+#~ msgid "Content type is not set"
+#~ msgstr "Тип записи не указан"
+
+#~ msgid "Incorrect post ID"
+#~ msgstr "Некорректный ID записи"
+
+#~ msgid "Link creation error"
+#~ msgstr "Ошибка создания ссылки"
+
+#~ msgid "Post ID is not set"
+#~ msgstr "ID записи не указан"
+
+#~ msgid "Term save error"
+#~ msgstr "Ошибка сохранения термина"
+
+#~ msgid "The term was added"
+#~ msgstr "Термин был добавлен"
+
+#~ msgid "Unknown term ID"
+#~ msgstr "Не известный ID записи"
+
+#~ msgid "Term delete error"
+#~ msgstr "Ошибка удаления термина"
+
+#~ msgid "The term was deleted"
+#~ msgstr "Термин удалён"
+
+#~ msgid "Unknown term"
+#~ msgstr "Не известный термин"
+
+#~ msgid "Unknown terms IDs"
+#~ msgstr "Не известные ID терминов"
+
+#~ msgid "Terms delete error"
+#~ msgstr "Ошибка удаления термина"
+
+#~ msgid "The terms were deleted"
+#~ msgstr "Термины были удалены"
+
+#~ msgid "Unknown terms"
+#~ msgstr "Не известные термины"
+
+#~ msgid "Unknown term id"
+#~ msgstr "Не известный ID термина"
+
+#~ msgid "Term update error"
+#~ msgstr "Ошибка обновления термина"
+
+#~ msgid "The term was updated"
+#~ msgstr "Термин изменён"
+
+#~ msgid "Permalink update error"
+#~ msgstr "Ошибка обновления ссылки на термин"
+
+#~ msgid "The term permalink was updated"
+#~ msgstr "Ссылка на термин изменена"
+
+#~ msgid "Options"
+#~ msgstr "Настройки"
+
+#~ msgid "Convert terms"
+#~ msgstr "Преобразовать термины"
+
+#~ msgid "in posts"
+#~ msgstr "в записях"
+
+#~ msgid "Convert the first"
+#~ msgstr "Преобразовывать первые"
+
+#~ msgid "occurrences of each term."
+#~ msgstr "вхождений каждого термина."
+
+#~ msgid "Set \"-1\" if you want to convert all terms."
+#~ msgstr "Установите \"-1\" если вы хотите преобразовать все термины."
+
+#~ msgid "Maximum transformations number"
+#~ msgstr "Максимальное количество преобразований"
+
+#~ msgid "Set \"-1\" if you don't want to use this limitation."
+#~ msgstr "Установите \"-1\" если вы не хотите использовать это ограничение."
+
+#~ msgid "Consider existing links"
+#~ msgstr "Учитывать существующие ссылки"
+
+#~ msgid ""
+#~ "If this option is checked plugin will count links that are added by hand."
+#~ msgstr ""
+#~ "Если эта опция установлена, плагин будет считать ссылки созданные вручную."
+
+#~ msgid "Add CSS class"
+#~ msgstr "Добавить CSS класс"
+
+#~ msgid "to terms links."
+#~ msgstr "к ссылкам на термины."
+
+#~ msgid "Add title attribute to links"
+#~ msgstr "Добавить title атрибут к ссылкам"
+
+#~ msgid "Wrap link"
+#~ msgstr "\"Обернуть\" ссылку"
+
+#~ msgid "text before"
+#~ msgstr "текст до"
+
+#~ msgid "example: &lt;strong&gt;"
+#~ msgstr "пример: &lt;strong&gt;"
+
+#~ msgid "text after"
+#~ msgstr "текст после"
+
+#~ msgid "example: &lt;/strong&gt;"
+#~ msgstr "пример: &lt;/strong&gt;"
+
+#~ msgid "Convert terms only on single pages"
+#~ msgstr "Преобразовывать термины только на страницах отдельных записей"
+
+#~ msgid "Terms will not be converted on home, categories and archives pages."
+#~ msgstr ""
+#~ "Термины не будут преобразованы на главной, страницах категорий и архивов."
+
+#~ msgid "Open link in a new tab"
+#~ msgstr "Открывать ссылку в новом табе"
+
+#~ msgid ""
+#~ "If this option is checked plugin will add target=\"_blank\" to links."
+#~ msgstr ""
+#~ "Если эта опция установлена, плагин добавит target=\"_blank\" к ссылкам."
+
+#~ msgid "Add nofollow to external links"
+#~ msgstr "Добавить nofollow для внешних ссылок"
+
+#~ msgid ""
+#~ "If this option is checked plugin will add rel=\"nofollow\" to "
+#~ "<strong>external</strong> links."
+#~ msgstr ""
+#~ "Если эта опция установлена, плагин добавит rel=\"nofollow\" к "
+#~ "<strong>внешним</strong> ссылкам."
+
+#~ msgid "Wrap external links with noindex tag"
+#~ msgstr "\"Обернуть\" внешнюю ссылку в тег noindex "
+
+#~ msgid ""
+#~ "If this option is checked plugin will wrap <strong>external</strong> "
+#~ "links with &lt;noindex&gt; tag."
+#~ msgstr ""
+#~ "Если эта опция установлена, плагин \"обернет\" <strong>внешние</strong> "
+#~ "ссылки в тег &lt;noindex&gt;."
+
+#~ msgid "Show"
+#~ msgstr "Показывать"
+
+#~ msgid "terms on a page (in admin area)"
+#~ msgstr "терминов на странице (в админке)"
+
+#~ msgid "Parser"
+#~ msgstr "Парсер"
+
+#~ msgid "Simple parser"
+#~ msgstr "Простой парсер"
+
+#~ msgid "Simple parser with quotes support"
+#~ msgstr "Простой парсер с поддержкой кавычек"
+
+#~ msgid "Long terms first parser"
+#~ msgstr "Парсер с сортировкой терминов по их длинне"
+
+#~ msgid "Orders terms by their lengths before searching them in text"
+#~ msgstr "Перед поиском терминов в тексте, сортирует их по убыванию их длин"
+
+#~ msgid "Update"
+#~ msgstr "Изменить"
+
+#~ msgid ""
+#~ "Terms Descriptions plugin is almost updated. Please, BACKUP YOUR DATABASE "
+#~ "and press following button to"
+#~ msgstr ""
+#~ "Плагин Terms Descriptions практически обновлен. Пожалуйста, СДЕЛАЙТЕ "
+#~ "РЕЗЕРВНУЮ КОПИЮ БАЗЫ ДАННЫХ и нажмите следующую кнопку чтобы "
+
+#~ msgid "Update DB"
+#~ msgstr "Обновить БД"
+
+#~ msgid "Terms"
+#~ msgstr "Термины"
+
+#~ msgid "Edit"
+#~ msgstr "Изменить"
+
+#~ msgid "Delete"
+#~ msgstr "Удалить"
+
+#~ msgid "Are you sure?"
+#~ msgstr "Вы уверены?"
+
+#~ msgid "Add term"
+#~ msgstr "Добавить термин"
+
+#~ msgid "Update term"
+#~ msgstr "Изменить термин"
+
+#~ msgid "Cancel"
+#~ msgstr "Отмена"
+
+#~ msgid "New term was added"
+#~ msgstr "Термин добавлен"
+
+#~ msgid "Updating..."
+#~ msgstr "Обновляю..."
+
+#~ msgid "Done!"
+#~ msgstr "Готово!"
+
+#~ msgid "Select"
+#~ msgstr "Выбрать"
+
+#~ msgid "Double click to open the titles list or type some letters"
+#~ msgstr "Введите несколько букв или сделайте двойной клик"
+
+#~ msgid "Term"
+#~ msgstr "Термин"
+
+#~ msgid "Link"
+#~ msgstr "Ссылка"
+
+#~ msgid "Link to"
+#~ msgstr "Ссылка на"
+
+#~ msgid "External link"
+#~ msgstr "Внешняя ссылка"
+
+#~ msgid "Post ID"
+#~ msgstr "ID записи"
+
+#~ msgid "Press this button if you have updated permalinks structure."
+#~ msgstr "Нажмите эту кнопку если вы обновляли структуру постоянных ссылок."
+
+#~ msgid "Update permalinks"
+#~ msgstr "Обновить ссылки на термины"
+
+#~ msgid "Remove selected"
+#~ msgstr "Удалить выбранные"
+
+#~ msgid "Search"
+#~ msgstr "Поиск"
+
+#~ msgid "Select All"
+#~ msgstr "Выбрать все"
+
+#~ msgid "Term Link"
+#~ msgstr "Ссылка термина"
+
+#~ msgid "Premalinks updated"
+#~ msgstr "Ссылки обновлены"
+
+#~ msgid "of"
+#~ msgstr "из"
+
+#~ msgid "Import error"
+#~ msgstr "Ошибка импорта"
+
+#~ msgid "Import successfully finished"
+#~ msgstr "Импорт успешно завершен"
+
+#~ msgid "Terms creation error"
+#~ msgstr "Ошибка создания термина"
+
+#~ msgid "Terms successfully created"
+#~ msgstr "Термин создан"
+
+#~ msgid "Tools"
+#~ msgstr "Инструменты"
+
+#~ msgid "Export / Import"
+#~ msgstr "Экспорт / Импорт"
+
+#~ msgid "Export"
+#~ msgstr "Экспорт"
+
+#~ msgid "Select file with terms"
+#~ msgstr "Выберите файл с терминами"
+
+#~ msgid "Import"
+#~ msgstr "Импорт"
+
+#~ msgid "Packet terms upload"
+#~ msgstr "Пакетная загрузка терминов"
+
+#~ msgid "Terms list"
+#~ msgstr "Список терминов"
+
+#~ msgid ""
+#~ "Each term should be written on its own line. Use the following format."
+#~ "<br />word_form_1|word_form_2|...|post_id OR URL (with http://)<br /"
+#~ ">Examples:<br />apple|apples|21<br />pear|pears|http://site.domen<br /"
+#~ ">Note that if you use term_id the post with this id should exist."
+#~ msgstr ""
+#~ "Каждый термин должен быть записан в отдельной строке. Используйте "
+#~ "следующий формат.<br />word_form_1|word_form_2|...|post_id OR URL (with "
+#~ "http://)<br />Примеры:<br />яблоко|яблоки|21<br />груша|груши|http://site."
+#~ "domen<br />Обратите внимание, что если вы используете id терминов, то "
+#~ "посты с этими id должны существовать."
+
+#~ msgid "Add terms"
+#~ msgstr "Добавить термины"
+
+#~ msgid "CSV Export"
+#~ msgstr "CSV Экспорт"
+
+#~ msgid "Get terms in CSV format"
+#~ msgstr "Загрузить термины в CSV формате"
+
+#~ msgid ""
+#~ "Please, note, you can't restore terms from this file. Use Export instead."
+#~ msgstr ""
+#~ "Пожалуйста, обратите внимание, вы не сможете восстановить термины из "
+#~ "этого файла. Если необходимо последуещее восстановление, используйте "
+#~ "Экспорт."
+
+#~ msgid "Disable Terms Descriptions plugin for this post"
+#~ msgstr "Отключить плагин Terms Descriptions для этой записи"
+
+#~ msgid "Term ID"
+#~ msgstr "ID термина"
+
+#~ msgid "&laquo; Previous"
+#~ msgstr "&laquo; Предыдущие"
+
+#~ msgid "Next &raquo;"
+#~ msgstr "Следующие &raquo;"
+
+#~ msgid "term occurrences."
+#~ msgstr "найденных терминов."
+
+#~ msgid "terms per page."
+#~ msgstr "терминов на странице."
+
+#~ msgid "Create term"
+#~ msgstr "Создать термин"
+
+#~ msgid "Create"
+#~ msgstr "Создать"
+
+#~ msgid ""
+#~ "Term can contain one or several words and will be converted to a link. If "
+#~ "you want to use several word forms of a term, separate them with a \"|\". "
+#~ "Example, \"apple|apples\"."
+#~ msgstr ""
+#~ "Термин может состоять из одного или нескольких слов, которые будут "
+#~ "преобразованы в ссылки. Если вы хотете использовать несколько словоформ, "
+#~ "разделите их символом \"|\". Например, \"яблоко|яблоки\"."
+
+#~ msgid "Select page/post or enter external link"
+#~ msgstr "Выберите страницу / запись или укажите внешнюю ссылку"
+
+#~ msgid "Select a page or post you want to link to"
+#~ msgstr "Выберите страницу или запись на которую вы хотите поставить ссылку"
+
+#~ msgid ""
+#~ "Enter a number. \"-1\" for converting all found terms. If a term has "
+#~ "several word forms each of them will be counted."
+#~ msgstr ""
+#~ "Введите число. \"-1\" для преобразования всех найденных терминов. Если "
+#~ "для термина указано несколько словоформ, каждая из них будет засчитана."
+
+#~ msgid "Links Class attribute"
+#~ msgstr "Атрибут Class для ссылок"
+
+#~ msgid "Leave this field empty if you didn't whant to add class attribute."
+#~ msgstr ""
+#~ "Не заполняйте это поле если не хотите использовать атрибут class в "
+#~ "ссылках."
+
+#~ msgid "Save"
+#~ msgstr "Сохранить"
+
+#~ msgid "Terms not found"
+#~ msgstr "Термины не найдены"
+
+#~ msgid ""
+#~ "Term can contain one or several words and will be converted to a link"
+#~ msgstr ""
+#~ "Термин может состоять из одного или нескольких слов, которые будут "
+#~ "преобразованы в ссылку"
+
+#~ msgid "terms"
+#~ msgstr "терминов"
+
+#~ msgid "Enter a number"
+#~ msgstr "Введите число"
+
+#~ msgid "Select page/post"
+#~ msgstr "Выберите страницу/пост"
