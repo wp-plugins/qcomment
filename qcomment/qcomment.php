@@ -3,7 +3,7 @@
 Plugin Name: QComment
 Plugin URI: http://qcomment.ru/
 Description: This plugin integrates QComment service into WordPress.
-Version: 1.0
+Version: 1.1.1
 Author: Vladimir Statsenko
 Author URI: http://www.simplecoding.org
 License: private
