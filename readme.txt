@@ -2,9 +2,9 @@
 Contributors: (qComment)
 Donate link: https://qComment.ru
 Tags: comments
-Requires at least: 1.0
-Tested up to: 1.2
-Stable tag: 1.1.2
+Requires at least: 1.1.3
+Tested up to: 1.1.3
+Stable tag: 1.1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
